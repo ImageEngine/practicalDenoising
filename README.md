@@ -44,4 +44,4 @@ In order to make an implementation usable directly in standard Gaffer without cu
 
 ## Questions?
 
-The talk's [abstract and supplemental material](denoiser2018AbstractAndSupplemental.pdf) describes this approach in a fair bit of detail.  My email address is at the top of that - if you have questions about the details, or are doing using Gaffer in production, and are wanting to play with using this in production, drop me a line.
+The talk's [abstract and supplemental material](denoiser2018AbstractAndSupplemental.pdf) describes this approach in a fair bit of detail.  If you have questions about the details, or are using Gaffer in production, and are have questions about using this sort of approach in production, my email address is at the top of the abstract.
